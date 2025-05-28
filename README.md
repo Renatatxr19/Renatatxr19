@@ -1,11 +1,11 @@
 # 👩🏻‍💻 Renata Teixeira
 
-**`Desenvolvedora de sistemas`**
+*`Desenvolvedora de sistemas`**
 
 Óla! Me chamo Renata Teixeira de Jesus, curso Análise e desenvolvimento de Sistemas(ADS) no UNICEUB.
 Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futura desenvolvedora. 
 
-## Codigos acadêmicos 
+### Codigos acadêmicos 
 
 
 
