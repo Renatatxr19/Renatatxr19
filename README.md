@@ -2,7 +2,8 @@
 
 **`Desenvolvedora de sistemas`**
 
-Me chamo Renata Teixeira de jesus, tenho 18 anos e moro em Brasília. Concluí o ensino médio no  Colégio Esplanada. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB.
+Óla! Me chamo Renata Teixeira de Jesus, curso Análise e desenvolvimento de Sistemas(ADS) no UNICEUB.
+Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futura desenvolvedora. Meu objetivo é crescer na área criando sites, aplicativos e sistemas que ofereçam soluções práticas, e, a longo prazo, construir meu própri negócio no promissor setor da tecnologia
 
 ### 🤖 Linguagens e Tecnologias
 
