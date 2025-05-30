@@ -28,4 +28,5 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-`buefy` ![buefy][buefy]
+
+[`buefy` ![buefy][buefy]](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
