@@ -6,7 +6,7 @@
 Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futura desenvolvedora. 
 
 ### Codigos acadêmicos 
-portfolio/acadêmicos/calculadora.js
+portfolio/acadêmicos/calculadora.js/README.md
 jogologica.js
 
 ### 🤖 Linguagens e Tecnologias
