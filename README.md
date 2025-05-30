@@ -18,7 +18,7 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -26,7 +26,7 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-
+/>
 Estastisticas
 <p>
   <img 
