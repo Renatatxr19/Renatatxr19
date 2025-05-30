@@ -6,7 +6,7 @@
 Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futura desenvolvedora. 
 
 ### Codigos acadêmicos 
-https://github.com/Renatatxr19/calculadora.js
+calculadora.js
 
 
 ### 🤖 Linguagens e Tecnologias
