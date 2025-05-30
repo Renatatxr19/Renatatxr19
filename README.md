@@ -7,7 +7,7 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
 
 ### Codigos acadêmicos 
 calculadora.js
-
+jogologica.js
 
 ### 🤖 Linguagens e Tecnologias
 
