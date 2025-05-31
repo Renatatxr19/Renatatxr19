@@ -16,6 +16,7 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
 </div>
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="HTML"
@@ -33,6 +34,7 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 
 
 
