@@ -3,7 +3,18 @@
 *`Desenvolvedora de sistemas`*
 
 Óla! Me chamo Renata Teixeira de Jesus, curso Análise e desenvolvimento de Sistemas(ADS) no UNICEUB.
-Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futura desenvolvedora. 
+Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenho desenvolvido durante minha trajetória acadêmica, ilustrando minha evolução como futura desenvolvedora.
+
+### Meus Contatos
+
+ <div> 
+
+  <a href="https://instagram.com/lima_zaack" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isac.lima@sempreceub.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isac-braga-652098365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 
 ### Codigos acadêmicos 
 [calculadora](https://github.com/Renatatxr19/Renatatxr19/tree/main/portfolio/acad%C3%AAmicos/calculadora.js)
@@ -11,6 +22,30 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
 [jogo](https://github.com/Renatatxr19/Renatatxr19/tree/main/portfolio/acad%C3%AAmicos/jogo.js)
 
 [semaforo](https://github.com/Renatatxr19/Renatatxr19/tree/main/portfolio/acad%C3%AAmicos/semaforo.js)
+
+## 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="190" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Renatatxr19&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="190" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatatxr19&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -31,23 +66,3 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Renatatxr19&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatatxr19&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
