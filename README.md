@@ -7,7 +7,7 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
 
 ### Codigos acadêmicos 
 [calculadora](https://github.com/Renatatxr19/Renatatxr19/tree/main/portfolio/acad%C3%AAmicos/calculadora.js)
-[jogo]()
+[jogo](https://github.com/Renatatxr19/Renatatxr19/tree/main/portfolio/acad%C3%AAmicos/jogo.js)
 [semaforo]()
 ### 🤖 Linguagens e Tecnologias
 
