@@ -47,6 +47,12 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
 
 
 
+
+
+
+
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
