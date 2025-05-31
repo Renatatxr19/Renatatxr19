@@ -14,32 +14,18 @@ Neste portfólio, você poderá acompanhar os trabalhos e experiências que tenh
   <a href="www.linkedin.com/in/renata-teixeira-de-jesus-9030a6356" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ### 🤖 Linguagens e Tecnologias
 
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="renata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
 
-
-
-### Codigos acadêmicos 
+## Codigos acadêmicos 
 [calculadora](https://github.com/Renatatxr19/Renatatxr19/tree/main/portfolio/acad%C3%AAmicos/calculadora.js)
 
 [jogo](https://github.com/Renatatxr19/Renatatxr19/tree/main/portfolio/acad%C3%AAmicos/jogo.js)
